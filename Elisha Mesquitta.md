@@ -1,7 +1,3 @@
-# Git Lesson Homework
-
-To complete this homework you should
-
 # Elisha Mesquitta, Hi!
 My name is Elisha Mesquitta.
 My favourite sport is rounders, as it is a team sport and it has a lot of elements to the game.
