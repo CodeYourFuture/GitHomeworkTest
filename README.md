@@ -8,9 +8,9 @@ To complete this homework you should
    - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
 4. In this file, write an introduction yourself. You should include:
    1. Your name
-   2. Your favourite sport and why you like it
-   3. Your favourite food and why it's your favourite
-   4. A link to a video of your favourite music
+   2. Your favorite sport and why you like it
+   3. Your favorite food and why it's your favorite
+   4. A link to a video of your favorite music
    5. An interesting fact about yourself - impress us!
 5. `Commit` the file to your repository
 6. `Push` the file to Github
