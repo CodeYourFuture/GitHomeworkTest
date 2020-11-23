@@ -1,4 +1,4 @@
-I am Rodrigue Ndzana. I enjoy planning soccer because it will help me enhances social connection and interactions with people I did not know. It also helps me increase my 
+I am Rodrigue Ndzana. I enjoyed planning soccer because it would help me enhances social connection and interactions with people I did not know. It also helps me increase my 
 communication skills and improve my concentration.
 
 I enjoy eating pasta with tomato sauce. The reason i enjoy eating pasta with tomato sauce it because I believe it would help boost my immune system and give me more strength 
