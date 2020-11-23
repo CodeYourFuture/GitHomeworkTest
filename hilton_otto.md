@@ -4,6 +4,8 @@ Favourite Sport: Swimming, I love swimming as this is a good sport to train all 
 
 Favourite Food: Anything with Chicken, it is simple and easy enough to prepare and there are literally thousands of ways to do this.
 
-Favourite Video: 
+Favourite Video: https://www.youtube.com/playlist?list=PLR3uCkbIgSNdagJ3Dc0-qK2Dad3BJ2RFZ
+
+Interesting thing about me: I love to bake for friends and family.
 
 
