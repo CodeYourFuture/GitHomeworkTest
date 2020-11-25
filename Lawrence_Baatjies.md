@@ -13,8 +13,8 @@ An interesting fact about me...
 I am from Namibia, from the capital called Windhoek West. I was born and raised there until I was about Thirteen years of age before i moved down to cape town.
 I've been living in Cape Town ever since.
 I attended Belhar high arts school
-I learnt to read and write music and well ass play the piano and guitar . as side from that
-I'd like to think of myself as one whom possess a technical mind ,  I enjoy technology all accepts of it.
+I learnt to read and write music as well as play the Piano and Guitar . as side from that..
+I'd like to think of myself as one whom possess a technical mind ,  I enjoy Technology all accepts of it.
 I also enjoy being a Tattoo artist in my free time, I also have 17 tattoos on my body 8 of which I have done myself.
 
 About two years ago I started to learned   (cyber security ) Ethical hacking and Web penetration Testing where I’ve learnt so much about web exploration .
