@@ -8,3 +8,4 @@ I am a peoples' person who is always willing to learn. I like diolgue and debate
 Sometimes I can deliberately oppose a fact up until the person who I am opposing can be conviced and believe me
 Then I will tell them that whatever you were talking is true I just wanted to juggle with your mind
 Wherever is neccessary I will correct and W e then can reach common idea though everyone is entittled to their opinion
+I respect everyone
