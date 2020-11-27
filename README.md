@@ -18,7 +18,7 @@ To complete this homework you should
 
 ## Finished Work
 
-When you've finished you should have a `pull request` that looks like this
+When you've finished you  should have a `pull request` that looks like this
 
 https://github.com/CodeYourFuture/GitHomeworkTest/pull/1
 
