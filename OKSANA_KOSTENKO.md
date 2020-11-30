@@ -1,5 +1,5 @@
-My name is Oksana
-I am not a sports person
-My favourite food is pizza because it's yummy :D
-My favourite song today is: https://www.youtube.com/watch?v=6Wnp6csnrVQ
-I am 29 but I still can't swim
+1. My name is Oksana
+2. I am not a sports person
+3. My favourite food is pizza because it's yummy :D
+4. My favourite song today is: https://www.youtube.com/watch?v=6Wnp6csnrVQ
+5. I am 29 but I still can't swim
