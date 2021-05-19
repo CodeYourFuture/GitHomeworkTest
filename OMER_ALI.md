@@ -1,1 +1,1 @@
-
+My name is Omer Ali,my favorite sport is Skating,my favorite food is Falafel becouse it's the most delicious food in the world!!,my favorite song is (https://www.youtube.com/watch?v=5lvvD8lKpd8),fact about me i like adventures.
