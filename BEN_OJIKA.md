@@ -6,3 +6,4 @@ It has nothing to do with loyalty and everything to do with seeking excellence a
 My favourrite food would be Jollof Rice, this would be due to its spectacular array of flavours and spices.
 My favourite video would be any meaningful track from eminem, let us have one linked here: https://www.youtube.com/watch?v=S9bCLPwzSC0
 I am unable to add significant weight, i was a very skinny child and in my teens i tried to add body mass by eating anything and everything i could find. During the lockdown, when everyone was conplaining about adding weight, i had no such issue.
+Thank you for reading through.
