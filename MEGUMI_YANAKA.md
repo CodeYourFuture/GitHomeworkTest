@@ -1,4 +1,4 @@
-Hi, my name is Megumi. 
+Hi, my name is Megumi Yanaka. 
 I prefer to be called "Linlin" by my friends.
 
 My favourite sport is motorsports and dance and any kind of sports using half-pipe. 
