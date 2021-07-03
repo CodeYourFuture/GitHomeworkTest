@@ -24,6 +24,8 @@ To complete this homework you should
       https://www.youtube.com/watch?v=VYOjWnS4cMY
 
    5. An interesting fact about yourself - impress us!
+
+      I once hitchhiked for charity from UK to Tangier in Morocco and was jammy enough to complete this in one lift.
 5. `Commit` the file to your repository
 6. `Push` the file to Github
 7. Open a `Pull Request` to this repository
