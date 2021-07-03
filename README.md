@@ -16,7 +16,13 @@ To complete this homework you should
    3. Your favourite food and why it's your favourite: 
       Anything fresh and homemade. Recently enjoyed Kissir and tried a masala dosa for the first time. Tres bien! 
    4. A link to a video of your favourite music
-   
+
+      A long time favourite from Joni Mitchell but quite a boring video! 
+      https://www.youtube.com/watch?v=qAZp5JfDmz4
+
+      Alternatively, this is an incredible song and an amazing video by Childish Gambino 
+      https://www.youtube.com/watch?v=VYOjWnS4cMY
+
    5. An interesting fact about yourself - impress us!
 5. `Commit` the file to your repository
 6. `Push` the file to Github
