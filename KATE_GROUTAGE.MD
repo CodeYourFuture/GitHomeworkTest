@@ -12,7 +12,9 @@ My favourite food is Curry! Any, it doesn't really matter. I just love the spice
 
 # 4: A link to a video of your favourite music
 
-This is my favourite song right now: https://www.youtube.com/watch?v=n2EjeMx4bSg . It's "Bow Down" by I Prevail. I really want to watch these guys live as I think it would be an amazing night and an absolute banger of an experience.
+This is my favourite song right now: https://youtu.be/n2EjeMx4bSg . It's "Bow Down" by I Prevail. I really want to watch these guys live as I think it would be an amazing night and an absolute banger of an experience.
+
+My favourite album is: https://youtu.be/cDdvMnu5RoQ . This just needs attention. Architects are absolutely amazing, this whole album is full of bangers and I really want to watch them live. My favourite album right now just because of how good it is and how unique each song is. My favourite songs from it are: Black Lungs, Dead Butterflies and Dying is Absolutely Safe.
 
 # 5: An interesting fact about yourself - impress us!
 
