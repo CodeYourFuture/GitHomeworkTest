@@ -6,7 +6,7 @@ Introduction
    My Name is Nonye Ehiguese
 
    2. Your favourite sport and why you like it
-   My favourite Sport is 
+   My favourite Sport is Running
 
    3. Your favourite food and why it's your favourite
    My favorite food is Rice with Seafood Dish of any variety. 
