@@ -1,0 +1,5 @@
+My name is Mireille Nyoubissi,
+I like football but only when the Cameroon team is playing. Other than that, I am more interested in athletes, for their mindset and physical abilities, than the sport itself. For instance, you might find me watching a tennis match because Serena Williams is playing.
+I do not have a favourite food. However, I have an appetite for anything spicy, especially for traditional home dishes such as okra soup, ndole, poulet DG and many others.
+Generally, I listen to all kinds of music, but lately, I have been into the Afro beat genre. Click on the link https://www.youtube.com/watch?v=Q7QiLceJSLQ to discover Ojuelegba, a song from the Grammy winner Wizkid, a song particularly dear to my heart as it is a song of gratefulness that praises the Lord and celebrates achievement.
+As a child, my dream was to become a singer so, I used to dance and sing all around the house, I did the bathroom, the bedroom, the living room... however, my tour never went beyond my mother's house.
