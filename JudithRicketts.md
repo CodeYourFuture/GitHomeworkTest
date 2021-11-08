@@ -27,6 +27,8 @@ https://www.youtube.com/watch?v=<VIDEO ID>
 https://youtu.be/<VIDEO URL> -->
 
 [![The very talented Gregory Porter ♬♬ ♬♬](https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ETnnHRnpXxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 <!-- [![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)   -->
   
