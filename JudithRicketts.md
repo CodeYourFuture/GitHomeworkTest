@@ -22,22 +22,25 @@ I am a vegetarian, and have been since the age of 17. I like all sorts of food f
 
 ## Fav Music
 
-A link to a video of your favourite music
+<!-- A link to a video of your favourite music
 https://www.youtube.com/watch?v=<VIDEO ID>
-https://youtu.be/<VIDEO URL>
+https://youtu.be/<VIDEO URL> -->
 
 [![The very talented Gregory Porter ♬♬ ♬♬](https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s)
   
-[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)  
+<!-- [![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)   -->
   
-https://img.youtube.com/vi/<insert-youtube-video-id-here>/mqdefault.jpg
+<!-- https://img.youtube.com/vi/<insert-youtube-video-id-here>/mqdefault.jpg -->
   
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)  - working 
   
 https://img.youtube.com/vi/<https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s>/3.jpg
   
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s)  
-  
+
+Gregory Porter at The Metropole Orchestra: https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s
+
+
 ## Interesting fact
 
 I am an artist, until recently this was not a label I was willing to accept.  
