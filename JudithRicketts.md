@@ -22,30 +22,17 @@ I am a vegetarian, and have been since the age of 17. I like all sorts of food f
 
 ## Fav Music
 
-<!-- A link to a video of your favourite music
-https://www.youtube.com/watch?v=<VIDEO ID>
-https://youtu.be/<VIDEO URL> -->
+Gregory Porter at The Metropole Orchestra ♬♬ ♬ ♬: https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s
 
-[![The very talented Gregory Porter ♬♬ ♬♬](https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ETnnHRnpXxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-<!-- [![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)   -->
-  
-<!-- https://img.youtube.com/vi/<insert-youtube-video-id-here>/mqdefault.jpg -->
-  
+* this video is here just because of the time of year and because its brill!!
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)  - working 
-  
-https://img.youtube.com/vi/<https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s>/3.jpg
-  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s)  
-
-Gregory Porter at The Metropole Orchestra: https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s
-
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/ETnnHRnpXxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+ 
 
 ## Interesting fact
 
 I am an artist, until recently this was not a label I was willing to accept.  
 I mix storytelling from archival data, interactivity and programming – an awesome combo 😊
 I do some public speaking on issues around my practice and social change, my hope to get better at engaging audiences in this way.
+
+
+<!-- read.me generator https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
