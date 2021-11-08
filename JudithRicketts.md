@@ -26,9 +26,14 @@ A link to a video of your favourite music
 https://www.youtube.com/watch?v=<VIDEO ID>
 https://youtu.be/<VIDEO URL>
 
-[![The very talented Gregory Porter ♬ ♬ ♬ ♬ ] (https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s)
+[![The very talented Gregory Porter ♬♬ ♬♬](https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s)
   
 [![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)  
+  
+https://img.youtube.com/vi/<insert-youtube-video-id-here>/mqdefault.jpg
+  
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+  
 
 ## Interesting fact
 
