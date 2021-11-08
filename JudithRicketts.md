@@ -7,7 +7,7 @@ I love both tennis and cricket for different reasons.
 ### tennis
 
 Although I have not played tennis for a while my plan is to get back to it as I think it important for focusing the mind, meeting likeminded people and getting fit ❤️
-![imagehttps://www.sabcnews.com/sabcnews/wp-content/uploads/2018/08/SABC-News-serena-williamsReuters.jpg)
+![image](https://www.sabcnews.com/sabcnews/wp-content/uploads/2018/08/SABC-News-serena-williamsReuters.jpg)
 
 ### Cricket
 
