@@ -26,10 +26,10 @@ A link to a video of your favourite music
 https://www.youtube.com/watch?v=<VIDEO ID>
 https://youtu.be/<VIDEO URL>
 
-[![Fav music in video form 😊 ](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![The very talented Gregory Porter ♬ ♬ ♬ ♬ ] (https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s)
 
 ## Interesting fact
 
 I am an artist, until recently this was not a label I was willing to accept.  
 I mix storytelling from archival data, interactivity and programming – an awesome combo 😊
-I do some public speaking on issues around my practice and social change, my hope to get better at.
+I do some public speaking on issues around my practice and social change, my hope to get better at engaging audiences in this way.
