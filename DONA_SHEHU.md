@@ -1,4 +1,3 @@
-My nam is Dona.
 My name is Dona.
 My favourite sport is Climbing because nothing can compare with beautiful,amazing,breathtaking and inspiring view when you reach the top.
 My favourite food is pasta because is easy to prepare doesn't take to long and is tasty.
