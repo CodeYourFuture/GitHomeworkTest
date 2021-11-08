@@ -25,8 +25,9 @@ I am a vegetarian, and have been since the age of 17. I like all sorts of food f
 
 Gregory Porter at The Metropole Orchestra ♬♬ ♬ ♬: https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s
 
-* this video is here just because of the time of year and because its brill!!
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)  - working 
+This video is here just because of the time of year and because its brill!!
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)  
  
 
 ## Interesting fact
