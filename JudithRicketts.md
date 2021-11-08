@@ -36,6 +36,8 @@ https://img.youtube.com/vi/<insert-youtube-video-id-here>/mqdefault.jpg
   
 https://img.youtube.com/vi/<https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s>/3.jpg
   
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=ETnnHRnpXxA&t=2161s)  
+  
 ## Interesting fact
 
 I am an artist, until recently this was not a label I was willing to accept.  
