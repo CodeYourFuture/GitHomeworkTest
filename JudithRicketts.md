@@ -18,7 +18,7 @@ With cricket on the other hand, I am a peripheral spectator, meaning, I like to 
 ## Food
 
 I am a vegetarian, and have been since the age of 17. I like all sorts of food for West African, Thai, Jeanene and Chinese and have adapted traditional Jamaican dishes for my pallet
-![image](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1000,h_1425/https://healthiersteps.com/wp-content/uploads/2019/01/jamaican-vegan-recipes.jpg)
+![image](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1000,h_1425/https://healthiersteps.com/wp-content/uploads/2019/01/jamaican-vegan-recipes.jpg | width=100)
 
 ## Fav Music
 
