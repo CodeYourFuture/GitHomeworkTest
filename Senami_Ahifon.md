@@ -1,7 +1,7 @@
 Hello, my name is Senami Ahifon
 
 
-I love swimming because and I love to swim in the ocean or do some scuba diving but I don't know how to swim, I would love to learn how to though.
+I love swimming because and I would love to swim in the ocean or do some scuba diving but I don't know how to swim, I would love to learn how to though.
 
 
 Strangely, I do not have any favourite food, sorry!
