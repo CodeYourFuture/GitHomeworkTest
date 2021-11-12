@@ -7,11 +7,20 @@ To complete this homework you should
 3. Create a new file called `FIRSTNAME_LASTNAME.md`
    - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
 4. In this file, write an introduction yourself. You should include:
-   1. Your name
+   1. Your name  
+   Ezgi Gunes
    2. Your favourite sport and why you like it
+   I like playing basketball.Because I always wanted to involved in it and relaxes me while I feel free while running.
+
    3. Your favourite food and why it's your favourite
+   My favorite food is a Pizza because it tastes and smells fabulous.the Pizza itself looks so yummy,crispy and so cheesy.I am always hungary for pizza,be it any time of the day.
    4. A link to a video of your favourite music
+   )https://www.youtube.com/watch?v=mgjt9734xLk&list=RDmgjt9734xLk&start_radio=1
    5. An interesting fact about yourself - impress us!
+   I like yoga.Things I like about yoga:
+   To focus on balance  flexibility and it brings together physical and mental disiplines to achieve a peaceful body and mind.
+   It helps manage stress and anxiety and keeps you relaxing.
+
 5. `Commit` the file to your repository
 6. `Push` the file to Github
 7. Open a `Pull Request` to this repository
