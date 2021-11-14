@@ -17,4 +17,3 @@
    And I would like to learn Turkish and German.
 
 
-s
