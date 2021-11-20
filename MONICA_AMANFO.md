@@ -18,7 +18,7 @@ My favourite sports are Badminton 🏸, Taekwondo 🥋 and football ⚽.
 For all cheese lovers, you have to love italian cuisine. I especially love a Spaghetti Carbonara 🍝.
 I love it because of all the parmesan cheese you can use 🧀. Delicioso!
 
-I like hip-hop and R&B 🎶 💃. Here's a link to two songs I'm listening to at the moment
-[Kanye west - Homecoming](https://www.youtube.com/watch?v=LQ488QrqGE4) and [Sleepy Hallow - 2055](https://www.youtube.com/watch?v=y1xZ_kAhjMc)😆.
+I like hip-hop and R&B 🎶 💃. Here's a link to a songs I'm listening to at the moment
+[Kanye west - Homecoming](https://www.youtube.com/watch?v=LQ488QrqGE4)😆.
 
 I once did a flash mob in Spain to a song called Candy. It was exciting and unexpected. It's somewhere on youtube but I can't find it lol. In case you don't know what a flash mob is have a look. [Flash mob](https://www.youtube.com/watch?v=-bnYpCiwV2Q).
