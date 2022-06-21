@@ -1,6 +1,6 @@
-Hey, my name is *Micheale Andemariam*. I love all kinds of sports, but my favourite sport is football because I grew up watching and playing football with my friends since childhood. When it comes to food, I like foods that make me feel good and active after eating them, such as brown rice with chicken, fish and rice and pasta spaghetti.
+Hey, my name is *Micheale Andemariam*. I love all kinds of sports, but my favourite sport is **football** because I grew up watching and playing football with my friends since childhood. When it comes to food, I like foods that make me feel good and active after eating them, such as **brown rice with chicken, fish and rice and pasta spaghetti**.
 
-Here is a link to a video of my favourite music. It is called New Beginning by *Tracy Chapman*.
+Here is a link to a video of my favourite music. It is called **New Beginning** by *Tracy Chapman*.
 https://www.youtube.com/watch?v=72PkUgZ651k
 
 Fun facts about me:
