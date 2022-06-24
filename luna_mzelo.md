@@ -1,5 +1,5 @@
-# Luna Mzelo
-Cycling is my favorite sport. I like it because it is good for both physical and mental health. 
-My favorite food is salmon because it is rich in nutrition and has a lot of health benefits.
+My name is Luna Mzelo
+My favourite sport is cycling. It benefits both physical and mental health, which is why I adore it. 
+Salmon is my favourite food because it is nutrient-dense and offers a variety of health advantages.
 [My favorite music](https://youtu.be/XtVvp_TpaBc)
 -I can be a mom,a student and employee at the same time.
