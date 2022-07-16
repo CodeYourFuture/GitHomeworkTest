@@ -8,10 +8,15 @@ To complete this homework you should
    - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
 4. In this file, write an introduction yourself. You should include:
    1. Your name
+   My name is AHmed Mahomud
    2. Your favourite sport and why you like it
+   My favourit sport is vollyball and I like it because I'm good with it.
    3. Your favourite food and why it's your favourite
+   My favourit food is fish with rice so I use to live by sea and eat every week. 
    4. A link to a video of your favourite music
+   https://www.youtube.com/watch?v=JGwWNGJdvx8
    5. An interesting fact about yourself - impress us!
+   I've never been cooking my whole life, but now I find fun cooking, and I've learned a lot of cooking, and my friends love my cooking.
 5. `Commit` the file to your repository
 6. `Push` the file to Github
 7. Open a `Pull Request` to this repository
