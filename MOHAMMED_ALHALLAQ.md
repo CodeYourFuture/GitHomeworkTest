@@ -16,6 +16,7 @@ I like the middleeastern cusine , the Palastenian, Lebaneese , Turkish and Syria
 
 ### My favorite music is the classis oriental songs and musics...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ul4z6sLnXYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Oriental Music](http://i3.ytimg.com/vi/ul4z6sLnXYY/hqdefault.jpg)](https://youtu.be/ul4z6sLnXYY "Alf Leelah We Leelah")
 
 ### Intersting things about myself is that I like diving but fear skydiving :-)
+
