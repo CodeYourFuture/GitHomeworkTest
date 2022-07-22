@@ -20,7 +20,7 @@ I enjoy watching live tennis games, but i would say my favourite sport is athlet
 
  My favourite food is fried egg rice, it is my favourite because it is so delicious and easy to prepare.
 
- My interesting fact about myself is that 9love to restore old furniture
+ My interesting fact about myself is that i love to restore old furniture
 
 Here is the link of my fovourite video below
 https://youtu.be/9obm__-OGdI
