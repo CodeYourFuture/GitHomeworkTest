@@ -32,8 +32,14 @@
 ### GitHub CLI Commands & Git Commands used for this Pull Request
 
 1. gh repo fork https://github.com/CodeYourFuture/GitHomeworkTest --fork-name "git-test" --clone
-2. git status
-3. git add .
-4. git commit -m "completed task"
-5. git push
-6. gh pr create
+2. cd git-test
+3. git status
+4. git add .
+5. git commit -m "completed task"
+6. git push
+7. gh pr create
+8. base repository: CodeYourFuture/GitHomeworkTest
+9. title: London 9 - Baz Murphy - Git&GitHub - Week 1
+10. specify Body: e to open Notepad
+11. Write body. Save. Close Notepad.
+12. Submit
