@@ -6,7 +6,8 @@
 
 ### Your favourite sport and why you like it:
 
-> I like watching top tier CSGO E-Sports on LAN hosted in Live Arenas with Big Crowds :tv::nerd_face:
+> I'm not really a huge fan of any regular sports. I like hiking but that isn't a sport.
+> I like watching top tier CSGO E-Sports on LAN hosted in Live Arenas with Big Crowds :tv::nerd_face: because it takes a huge amount of teamwork, communication, preparation and skill to compete at that level.
 
 ### Your favourite food and why it's your favourite:
 
