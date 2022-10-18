@@ -16,10 +16,11 @@
 
 ### A link to a video of your favourite music:
 
-> Not my favourite but a track with memories from this Summer :heart_eyes: :yellow_heart::sun_with_face:
-> https://www.youtube.com/watch?v=tfwu-Ts8JEE
-> Here is a nice soulful liquid drum and bass track i quite like at the moment :milky_way:
-> https://www.youtube.com/watch?v=IonGJIcEpTI
+> Not my favourite but a track with vivid memories from this Summer :heart_eyes::yellow_heart::sun_with_face:
+> <a href="https://www.youtube.com/watch?v=tfwu-Ts8JEE">Diplo with Miguel - Don't Forget My Love</a>
+>
+> And here is a soulful liquid drum and bass track i quite like at the moment :milky_way::blush:
+> <a href="https://www.youtube.com/watch?v=IonGJIcEpTI">BCee, Charlotte Haining & Emba - Before You</a>
 
 ### An interesting fact about yourself - impress us!
 
