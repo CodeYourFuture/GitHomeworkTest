@@ -18,4 +18,4 @@ my favorite music is [rain music](https://www.youtube.com/watch?v=jX6kn9_U8qk)
 
 5.  An interesting fact about yourself - impress us!
 
-    - im learnig to code .
+    - i'm learning to code .
