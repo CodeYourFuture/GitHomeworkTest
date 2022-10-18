@@ -16,8 +16,10 @@
 
 ### A link to a video of your favourite music:
 
-> Not my favourite but a sentimental track :heart_eyes: with memories from this Summer :yellow_heart:
+> Not my favourite but a track with memories from this Summer :heart_eyes: :yellow_heart::sun_with_face:
 > https://www.youtube.com/watch?v=tfwu-Ts8JEE
+> Here is a nice soulful liquid drum and bass track i quite like at the moment :milky_way:
+> https://www.youtube.com/watch?v=IonGJIcEpTI
 
 ### An interesting fact about yourself - impress us!
 
