@@ -2,6 +2,8 @@
 
 > Baz :stuck_out_tongue_winking_eye:
 
+<img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="200"/>
+
 ### Your favourite sport and why you like it:
 
 > I like watching top tier CSGO E-Sports on LAN hosted in Live Arenas with Big Crowds :tv::nerd_face:
@@ -9,6 +11,8 @@
 ### Your favourite food and why it's your favourite:
 
 > Okay, imagine the Cookie Monster... now replace the Cookies with ANY FOOD :laughing: ...that is my relationship with food :yum::yum::yum:
+
+<img src="https://media.giphy.com/media/BWoUbBTz1yuhW05Sgp/giphy.gif" width="200"/>
 
 ### A link to a video of your favourite music:
 
