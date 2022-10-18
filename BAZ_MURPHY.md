@@ -12,7 +12,7 @@
 
 ### A link to a video of your favourite music:
 
-> Not my favourite but a sentimental track :heart_eyes: with a lot of memories from this Summer :yellow_heart:
+> Not my favourite but a sentimental track :heart_eyes: with memories from this Summer :yellow_heart:
 > https://www.youtube.com/watch?v=tfwu-Ts8JEE
 
 ### An interesting fact about yourself - impress us!
@@ -29,7 +29,7 @@
 > - I have undertaken Meditation retreats with Monks at a large Buddhist Monastery :sunrise_over_mountains::pray::relieved:
 > - And I've got more... but i will stop there! Come ask me in person :wink:
 
-### GitHub CLI Commands & Git Commands used for this Pull Request
+## GitHub CLI Commands & Git Commands used for this Pull Request
 
 1. gh repo fork https://github.com/CodeYourFuture/GitHomeworkTest --fork-name "git-test" --clone
 2. cd git-test
