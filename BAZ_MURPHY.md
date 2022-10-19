@@ -48,5 +48,5 @@
 7. gh pr create
 8. base repository: CodeYourFuture/GitHomeworkTest
 9. title: London 9 - Baz Murphy - Git&GitHub - Week 1
-10. body: e to open notepad, write body. save. close notepad.
+10. body: e to open notepad. write body. save. close notepad.
 11. submit
