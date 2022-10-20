@@ -7,11 +7,18 @@ To complete this homework you should
 3. Create a new file called `FIRSTNAME_LASTNAME.md`
    - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
 4. In this file, write an introduction yourself. You should include:
-   1. Your name
-   2. Your favourite sport and why you like it
-   3. Your favourite food and why it's your favourite
-   4. A link to a video of your favourite music
+
+   1. Your name:Ebrahim
+
+   2. Your favourite sport and why you like it:Volleyball beacuse it has alot of fun.
+
+   3. Your favourite food and why it's your favourite: Kebab i love meat.
+
+   4. A link to a video of your favourite music:https://www.youtube.com/watch?v=tKVzm0SBYtQ
+
    5. An interesting fact about yourself - impress us!
+      I love learning new things and really enjoy it.
+
 5. `Commit` the file to your repository
 6. `Push` the file to Github
 7. Open a `Pull Request` to this repository
