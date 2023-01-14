@@ -5,3 +5,4 @@
    3. I don't have a fovourite food but i like rice cooked in many different ways.
    4. i don't listen to music :)
    5. I was born in an amniotic sac 
+   6. My favourite colour is yellow
