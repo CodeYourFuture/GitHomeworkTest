@@ -1,5 +1,7 @@
-Andrius Isin
-Swimming
-i like sushi, because i like rise
-https://www.youtube.com/watch?v=NeQM1c-XCDc
-i know 4 languages
+Hi my name is Andrius Isin.
+My favourite  sport is swimming.
+I like Japanese food, especially sushi.
+
+https://www.youtube.com/watch?v=f3GY86rxEMU
+
+I know 4 languages. (Lithuanian, Russian, Polish and English).
