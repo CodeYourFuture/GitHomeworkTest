@@ -16,7 +16,7 @@ To complete this homework you should
 6. `Push` the file to Github
 7. Open a `Pull Request` to this repository
 
-## Finished Work
+## Finished Work  
 
 When you've finished you should have a `pull request` that looks like this
 
