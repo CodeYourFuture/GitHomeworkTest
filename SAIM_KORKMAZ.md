@@ -1,4 +1,4 @@
-#Introduction of ..
+#Introduction
 
 ##Your name
 Saim Korkmaz
