@@ -7,6 +7,8 @@
 4. My Favorite music is: Mohsen Yeganeh - Behet Ghol Midam ( I promise you ).
 [Click here to watch it](https://www.youtube.com/watch?v=cDNDVtoJhik)
 
+5. An interesting fact about myself:  I've got a master's in software engineering, and I enjoy coding.
+
 
 
 
