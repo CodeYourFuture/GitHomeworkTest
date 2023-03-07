@@ -1,4 +1,4 @@
-My namd is Joseph Mwanza
+My name is Joseph Mwanza
 My favourite sport is football
 I do not have a particularly favourite food but I like fish and can have it all the time
 My favourite music video is called "We lift You high" by Ross Parsley
