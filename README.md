@@ -14,7 +14,7 @@ To complete this homework you should use the Git workflow you've been learning t
    3. Your favourite food and why it's your favourite
    4. A link to a video of your favourite music
    5. An interesting fact about yourself - impress us!
-7. `Commit` the file to your repository
+7. `Commit` the file to your branch
 8. `Push` the branch `bio-page` to your fork
 
 ## Creating a pull request
