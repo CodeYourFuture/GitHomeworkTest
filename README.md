@@ -2,18 +2,26 @@
 
 To complete this homework you should
 
-1. Fork this repository to create version on your profile
-2. Clone the new repository from your profile using Github Desktop
-3. Create a new file called `FIRSTNAME_LASTNAME.md`
+1. Fork this repository to create a version where you are the owner
+2. Clone the fork to your local machine
+3. Open the local repository in VSCode
+4. In VSCode, create a local branch called `add-bio-page`
+5. Create a new file called `FIRSTNAME_LASTNAME.md`
    - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
-4. In this file, write an introduction yourself. You should include:
+6. In this file, write an introduction yourself. You should include:
    1. Your name
    2. Your favourite sport and why you like it
    3. Your favourite food and why it's your favourite
    4. A link to a video of your favourite music
    5. An interesting fact about yourself - impress us!
-5. `Commit` the file to your repository
-6. `Push` the file to Github
+7. `Commit` the file to your repository
+8. `Push` the branch `add-bio-page` to your fork
+
+## Creating a pull request
+
+Finally, you'll need to get folks to review your work! 
+You can do this by creating a **pull request**!
+
 7. Open a `Pull Request` to this repository
 
 ## Finished Work
