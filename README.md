@@ -15,12 +15,14 @@ To complete this homework you should use the Git workflow you've been learning t
    4. A link to a video of your favourite music
    5. An interesting fact about yourself - impress us!
 7. `Commit` the file to your repository
-8. `Push` the branch `add-bio-page` to your fork
+8. `Push` the branch `bio-page` to your fork
 
 ## Creating a pull request
 
-Finally, you'll need to get folks to review your work! 
+Finally, you'll need to get others to review your work! 
 You can do this by creating a **pull request**!
+
+To learn more about **pull requests** and how to create one, please use this guide 👉 https://curriculum.codeyourfuture.io/guides/create-a-pull-request
 
 7. Open a `Pull Request` to this repository
 
