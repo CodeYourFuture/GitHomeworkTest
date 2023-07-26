@@ -34,9 +34,9 @@ https://github.com/CodeYourFuture/GitHomeworkTest/pull/1
 
 ## Asking for Help
 
-Have you had problems with any of the steps above. Ask for help on Slack - another student or a teacher will be able to help you!
+If you've had problems with any of the steps above, ask for help on Slack - another trainee or a volunteer will be able to help you!
 
-When you ask for help you should always say what exactly isn't work
+When you ask for help you should always say what exactly isn't working
 
 **Do not write:** "Git doesn't work. Can someone help me?"
 
