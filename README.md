@@ -26,7 +26,7 @@ To learn more about **pull requests** and how to create one, please use this gui
 
 7. Open a `Pull Request` to this repository
 
-## Finished Work
+## Finished Work  
 
 When you've finished you should have a `pull request` that looks like this
 
