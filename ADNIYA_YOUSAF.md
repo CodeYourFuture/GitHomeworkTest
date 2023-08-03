@@ -1,4 +1,4 @@
-Adniya Yousaf
+Adniya Yousaf.
 Chess is my favorite game. Because it improve concentration,creativity, memory and raise yor IQ, problem-solving skills.
 My favorite food is Biryani.It has a rich flavour.
 Pasoori is my favorite song.Here is the link.
