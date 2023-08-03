@@ -1,9 +1,0 @@
-My name is Abdihamid Ali, I moved to Birmingham in December 2022, I find it a very interesting multicultural city, I like the weather, the breeze, and the cold air in the summer after the rain. My favourite sport is football. I have two favourite football teams, FC Barcelona is my first favourite Spanish football team, and my second favourite is the English football team called Manchester City (Man. City), and not to be super obvious “Lionel Messi” is the (G.O.A.T.) of all time. And speaking of my favourite things, I like chicken burgers, rice, bread, and potato chips/ Crisps or fries. Mostly I don’t listen to music but I love any emotional songs such as “I Get to love you by Ruelle” https://www.youtube.com/watch?v=3Mdk690jPBg&ab_channel=alexias788
-“Perfect by Ed Sheeran” https://www.youtube.com/watch?v=2Vv-BfVoq4g&ab_channel=EdSheeran
-“Alive by sia”https://www.youtube.com/watch?v=t2NgsJrrAyM&ab_channel=SiaVEVO and many more.
-In closer, interesting facts about me, I’m an intelligent, tall, good-looking person 😁
-
-
- 
-
-
