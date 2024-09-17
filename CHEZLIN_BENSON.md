@@ -1,0 +1,9 @@
+Hi, My name is Chezlin.
+
+My favourite sport is beach volleyball because I have a huge love for the ocean seascapes, sunsets and beach sports.
+
+Before I describe my favourite food I need to say, Mmmmmmmm!. I love the old time favourite, Mac and Cheese. Especially smelling the cheese on a Sunday afternoon from the kitchen. Reason whould be that I am a big fan of cheese and pasta. Also love the Italian dishes for their unique pastries, cheeses, dishes, coffee and wines and also their cities.
+
+Here is a link to one of my favourite music playlist when I do my paintings. But I would say that I have a great appreciation and passion for music and therefor always experimenting with modern pop, classics, summer chilled, african tribal and other genres that suits to elevate the mood. So here is my recent favourite: https://www.youtube.com/watch?v=wQ5ok1EyEco&t=4060s. Hope you enjoy it.
+
+I could be a story of a million words and more excitingly a wonderful journey. My creative journey started with street art as a teenager and a passion for animation because I was good drawing my own characters with some realistic elements. I then tried out for Animation school but did not fit the criteria because of my less technical/ computer experience and was advised to do a basic art and design foundation course and come back. But surprisingly, my Graphic design course grew much passion and this has become my full time career. I still love street art and murals and do it as part of my freelancing with a recent passion for photography and photo editing. I am very hard on visual and conceptual aspects of design and art and always keep myself up to date with the latest design, art and digital trends.    
