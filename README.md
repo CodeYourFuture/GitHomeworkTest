@@ -24,7 +24,7 @@ You can do this by creating a **pull request**!
 
 To learn more about **pull requests** and how to create one, please use this guide 👉 https://curriculum.codeyourfuture.io/guides/create-a-pull-request
 
-7. Open a `Pull Request` to this repository
+9. Open a `Pull Request` to this repository
 
 ## Finished Work
 
