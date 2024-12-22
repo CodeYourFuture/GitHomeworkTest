@@ -41,3 +41,8 @@ When you ask for help you should always say what exactly isn't working
 **Do not write:** "Git doesn't work. Can someone help me?"
 
 **Do write:** "I've tried to push my file using git but it's giving me this error XYZ. I've tried to search Google for the answer but I can't find anything. Can somebody help me?"
+Aden Jones
+Football, its tactical and fast paced
+Pizza, it has a variety of flavors
+https://www.youtube.com/watch?v=ae_Ev_lwpUg
+I am super passionate about tech
