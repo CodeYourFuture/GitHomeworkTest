@@ -1,4 +1,13 @@
 # Git Lesson Homework
+BIO-Ricardo Medina
+Hi I`m Ricardo Medina , I like to play soccer and read light novels.
+I like many food dishes but my top 5 are following: Lomo Saltado, Aji de Gallina,Sancochado, Seco de Cabrito ,arroz con mariscos, I like all the dishes mentioned above because they have meat and have very particular and powerful flavors.
+I don't have a favorite song, rather I have different songs to listen to depending on my moods or situations, well having said that, one of the music that I have in my favorite playlist is  More Than A Feeling -Boston
+https://www.youtube.com/watch?v=ya1HweLYiJE&ab_channel=FloydianDip
+
+Well , an interesting fac about myself  I think it would be that I can cook very well.
+
+
 
 To complete this homework you should use the Git workflow you've been learning this week.
 
@@ -41,3 +50,4 @@ When you ask for help you should always say what exactly isn't working
 **Do not write:** "Git doesn't work. Can someone help me?"
 
 **Do write:** "I've tried to push my file using git but it's giving me this error XYZ. I've tried to search Google for the answer but I can't find anything. Can somebody help me?"
+
