@@ -1,43 +1,15 @@
 # Git Lesson Homework
 
-To complete this homework you should use the Git workflow you've been learning this week.
+# About Me
 
-1. Fork this repository to create a version where you are the owner
-2. Clone the fork to your local machine
-3. Open the local repository in VSCode
-4. In VSCode, create a local branch called `bio-page`
-5. Create a new file called `FIRSTNAME_LASTNAME.md`
-   - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
-6. In this file, write an introduction yourself. You should include:
-   1. Your name
-   2. Your favourite sport and why you like it
-   3. Your favourite food and why it's your favourite
-   4. A link to a video of your favourite music
-   5. An interesting fact about yourself - impress us!
-7. `Commit` the file to your branch
-8. `Push` the branch `bio-page` to your fork
+## My Name
 
-## Creating a pull request
+Hi, I’m Evelyn N. Mwanunura! 👋
 
-Finally, you'll need to get others to review your work! 
-You can do this by creating a **pull request**!
+## My Favourite Sport
 
-To learn more about **pull requests** and how to create one, please use this guide 👉 https://curriculum.codeyourfuture.io/guides/create-a-pull-request
+I’m not really into sports, but I do enjoy staying active in other ways.
 
-9. Open a `Pull Request` to this repository
+## My Favourite Food
 
-## Finished Work
-
-When you've finished you should have a `pull request` that looks like this
-
-https://github.com/CodeYourFuture/GitHomeworkTest/pull/1
-
-## Asking for Help
-
-If you've had problems with any of the steps above, ask for help on Slack - another trainee or a volunteer will be able to help you!
-
-When you ask for help you should always say what exactly isn't working
-
-**Do not write:** "Git doesn't work. Can someone help me?"
-
-**Do write:** "I've tried to push my file using git but it's giving me this error XYZ. I've tried to search Google for the answer but I can't find anything. Can somebody help me?"
+My absolute favourite food is **sadza and zvinyenze**, a traditional Zimbabwean meal. It’s comforting, flavorful, and reminds me of my roots and culture. 🍲
