@@ -11,7 +11,7 @@ To complete this homework you should use the Git workflow you've been learning t
 6. In this file, write an introduction yourself. You should include:
    1. Your name
    2. Your favourite sport and why you like it
-   3. Your favourite food and why it's your favourite
+   3. Your favourite food and why it's your fa,l;;urite
    4. A link to a video of your favourite music
    5. An interesting fact about yourself - impress us!
 7. `Commit` the file to your branch
@@ -27,7 +27,7 @@ To learn more about **pull requests** and how to create one, please use this gui
 9. Open a `Pull Request` to this repository
 
 ## Finished Work
-
+/c   c \
 When you've finished you should have a `pull request` that looks like this
 
 https://github.com/CodeYourFuture/GitHomeworkTest/pull/1
