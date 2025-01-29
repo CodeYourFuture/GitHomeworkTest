@@ -1,0 +1,3 @@
+Aliziwe Ngoma is all about good vibes, great food, and a love for music that runs deep. While tennis may not be Aliziwe’s main thing, the sport’s playful and competitive side still holds a special place. When it comes to food, though, umphokoqo is the real star. It's a traditional dish that’s best served cold, making it perfect for those warm summer days when nothing else hits quite as right.
+
+Music is where Aliziwe’s heart truly lies – creating beats, writing lyrics, and experimenting in the studio. Aliziwe draws inspiration from a variety of artists, but one that stands out is the incredible artist linked here, whose music and style have a special place in their world.
