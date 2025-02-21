@@ -28,6 +28,7 @@ To learn more about **pull requests** and how to create one, please use this gui
 
 ## Finished Work
 
+
 When you've finished you should have a `pull request` that looks like this
 
 https://github.com/CodeYourFuture/GitHomeworkTest/pull/1
