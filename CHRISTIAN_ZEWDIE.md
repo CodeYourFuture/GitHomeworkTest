@@ -5,7 +5,7 @@ Your favourite sport and why you like it:
     I prefer Swimming, It relaxes me
 
 Your favourite food and why it's your favourite:
-     Shiro is my favorite Ethiopian cuisine. It is a common meal in every house hold back home. More delicious when mixed with a littel bit of Ethiopiam spiced butter.
+     Shiro is my favorite Ethiopian cuisine. It is a common meal in every house hold back home. More delicious when mixed with a littel bit of Ethiopian spiced butter.
 
 A link to a video of your favourite music:
     https://youtu.be/HYfdjhORt90?feature=shared
