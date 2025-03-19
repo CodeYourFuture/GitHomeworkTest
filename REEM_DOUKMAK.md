@@ -1,0 +1,5 @@
+My name is Reem Doukmak.
+I love badminton because it is a total body workout. It gives me an opportunity to meet up with friends and to spend enjoyable time while doing a healthy exercise. I find it particularly useful in reducing stress and it makes me happy every time I play it. 
+My favourite food is Kebbeh. It is a Syrian dish made of mince meat and bulgur wheat. I love Kebbeh because it reminds me of the social gatherings and celebrations back home such as Eid and Birthdays. Say Kebbeh and I will smile. 
+I like listening to classic music. I find it soothing during a busy day and it helps me concentrate. Here is a link to one of my favourite music pieces: https://www.youtube.com/watch?v=XULUBg_ZcAU
+One thing which many people might not realise about me is that I am an introvert. Although I like to socialise with people, I cherish my time with myself and I make sure I re-charge my energy and self-peace every time I meet up with new people or hang out with friends.  
