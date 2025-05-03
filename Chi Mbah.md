@@ -4,11 +4,11 @@
 
  **My Name**
 
-Hi, I’m Chi ✌️
+Hi, I’m Chi 
 
  **My Favourite Sport**
 
-I’m not too keen on sports, but interestingly, I do enjoy tennis.
+I’m not too keen on sports, but interestingly, I do enjoy tennis and miniture golf.
 
  **My Favourite Food and why**
 
