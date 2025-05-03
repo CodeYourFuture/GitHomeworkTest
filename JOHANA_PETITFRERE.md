@@ -17,3 +17,4 @@ https://youtu.be/SCa2llssuLc?feature=shared
 An interesting fact about yourself - impress us
 
 I'm a creative person and I love to read and spending time in nature. 
+Despite my serious face, I'm a lovely and kind person.
