@@ -16,4 +16,4 @@ https://youtu.be/SCa2llssuLc?feature=shared
 
 An interesting fact about yourself - impress us
 
-I like singing and painting. 
+I'm a creative person and I love to read and spending time in nature. 
