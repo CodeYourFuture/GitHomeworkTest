@@ -4,7 +4,7 @@ Hi!, my name is Ikenna Agulobi, I'm an aspiring Fullstack Developer.
 
 # Favorite Sport
 
-My favorite sport is basketball. About 15 years ago, I played semi-professional basketball in Italy, but I had to pause my career due to a knee injury. These days, I still enjoy playing in local scrimmage games in my area. I love basketball because it’s a fast-paced, exciting sport that keeps me active and fit. As a team sport, it has taught me the value of teamwork, discipline, and working towards a common goal. I also enjoy the creative aspects of the game like dribbling, shooting, and play-making. Plus, it has helped me build an amazing friendships with my teammates over the years.
+My favorite sport is basketball. I love it because it’s a fast-paced, exciting sport that keeps me active and fit. As a team sport, it has taught me the value of teamwork, discipline, and working towards a common goal. I also enjoy the creative aspects of the game like dribbling, shooting, and play-making. Plus, it has helped me build an amazing friendships with my teammates over the years.
 
 ### Favorite Food
 
