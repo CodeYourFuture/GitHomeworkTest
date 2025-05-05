@@ -1,5 +1,5 @@
 Hi, my name is Sisay Mehari. I’m someone who finds passion, culture, and perspective in everything I do. 
-The sport I enjoy most is football-not just for the thrill of the game, but because it brings people together, builds discipline, and speaks a universal language of teamwork and determination. 
+The sport I enjoy most is Football-not just for the thrill of the game, but because it brings people together, builds discipline, and speaks a universal language of teamwork and determination. 
 Off the field, nothing satisfies me more than a plate of Chicken Curry. It’s more than just a meal- it’s a taste of cultural diversity that reflects the richness of traditions and flavour from around the world.
 When it comes to music, I vibe with energy and authenticity. One of my top tracks is "Prada Dem" by Gunna featuring Offset-you can check it out here(https://youtu.be/Tqjw-H4QyG0?si=_JGAl-BrzPR66rnf).
 And here’s something you should know about me: I don’t quit. Whether it’s in life, or personal growth, I push forward with grit and focus. That’s what defines me.
