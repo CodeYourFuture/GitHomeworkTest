@@ -1,0 +1,5 @@
+My name is BAssam Alshujaa
+I like being healthy so football is my favorite sport 
+My favorite food is Salta I like because it is spicy and savory 
+https://www.google.com/search?sca_esv=35dc981465dfcda7&rlz=1C1CHBF_en-GBGB1150GB1150&sxsrf=AHTn8zrCMUJVaB08bpA1BNDTY4XUKhsDBw:1746555033718&q=%D8%A7%D8%A8%D9%88+%D8%A8%D9%83%D8%B1+%D8%B3%D8%A7%D9%84%D9%85&udm=7&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBkzPWUS0OtApxR2914vrjk7XZXfnfKsaRZouQANLhmphNyg6d7jx9WIegRytfuMfNyQz96IJUdj-f6DXzmpqh1Yyi9G3azkU1uH5D1UKXUGd7t9bNQ5ILKda0wTMNUQI8qkTGxaen9ETMUiEUoLNOm6PahOd8paV62pvROoNjFA2ES4e1Q&sa=X&ved=2ahUKEwidhPbCuI-NAxXKUkEAHbX6IjkQtKgLegQIIBAB&biw=1536&bih=776&dpr=1.25#fpstate=ive&vld=cid:04193dfa,vid:8vXAhHXjovU,st:0
+I'm 18 years old and I studied   front end developmenty and I study OOP in Python
