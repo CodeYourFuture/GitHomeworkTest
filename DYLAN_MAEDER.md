@@ -16,4 +16,6 @@ I like metal/punk/rock type of music.
 I have linked this video as an example:
 https://www.youtube.com/watch?v=F7VlJyrELz0
 
+Funfact:
+
 An interesting fact about me is that I was actually a metal vocalist haha. I have quite a range of vocals in the "metal" range and scene.
