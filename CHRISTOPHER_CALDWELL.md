@@ -10,9 +10,8 @@ Gyudon, what is better than a simple bowl of rice with thinly sliced beef with o
 
 ##### Favourite Song:
 
-Re: I Am - Aimer
+[Re: I Am - Aimer](https://youtu.be/ptwH69_0EAo)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ptwH69_0EAo?si=cUU-2e8DBgIfnj61" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### Fun fact:
 
