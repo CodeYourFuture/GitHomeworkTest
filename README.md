@@ -26,11 +26,12 @@ To learn more about **pull requests** and how to create one, please use this gui
 
 9. Open a `Pull Request` to this repository
 
-## Finished Work
+## How to check your work?
+If you have correctly submitted your PR, you can find it in https://github.com/CodeYourFuture/GitHomeworkTest/pulls.
 
-When you've finished you should have a `pull request` that looks like this
+Your PR should look like this: https://github.com/CodeYourFuture/GitHomeworkTest/pull/692
 
-https://github.com/CodeYourFuture/GitHomeworkTest/pull/1
+**Please note that your PR will not undergo an official review, as none is required.** Most PRs at CodeYourFuture get reviewed, but this one is just for you to practice creating them.
 
 ## Asking for Help
 
