@@ -1,0 +1,1 @@
+My name is Rawsa Hasan. My favourite sport is swimming because it's very relaxing and quiet under the water. My favourite food is Dolma because it's very delicious. Here is my favourite song as it's my son's favourite https://www.youtube.com/watch?v=Hz_gcSl7kpw. My son is nine months old.
