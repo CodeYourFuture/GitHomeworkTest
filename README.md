@@ -1,5 +1,7 @@
 # Git Lesson Homework
 
+## Mohsen Zamani
+
 To complete this homework you should use the Git workflow you've been learning this week.
 
 1. Fork this repository to create a version where you are the owner
@@ -19,7 +21,7 @@ To complete this homework you should use the Git workflow you've been learning t
 
 ## Creating a pull request
 
-Finally, you'll need to get others to review your work! 
+Finally, you'll need to get others to review your work!
 You can do this by creating a **pull request**!
 
 To learn more about **pull requests** and how to create one, please use this guide 👉 https://curriculum.codeyourfuture.io/guides/create-a-pull-request
@@ -27,6 +29,7 @@ To learn more about **pull requests** and how to create one, please use this gui
 9. Open a `Pull Request` to this repository
 
 ## How to check your work?
+
 If you have correctly submitted your PR, you can find it in https://github.com/CodeYourFuture/GitHomeworkTest/pulls.
 
 Your PR should look like this: https://github.com/CodeYourFuture/GitHomeworkTest/pull/692
