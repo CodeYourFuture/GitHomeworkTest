@@ -2,6 +2,8 @@
 
 To complete this homework you should use the Git workflow you've been learning this week.
 
+newly added
+
 1. Fork this repository to create a version where you are the owner
 2. Clone the fork to your local machine
 3. Open the local repository in VSCode
