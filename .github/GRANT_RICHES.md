@@ -1,7 +1,7 @@
 # Grant Riches
 
 ## Favourite Sport
-My favourite football. I love football because it's fun to play and a great way to keep fit. I also like how it brings families together to watch the sport. Going to a football match with my children is reaaly special to me.
+My favourite football. I love football because it's fun to play and a great way to keep fit. I also like how it brings families together to watch the sport. Going to a football match with my children is really special to me.
 
 ## Favourite Food
 My favourite food? That's a tough one! My favourite cuisine is Turkish. Lot's of grilled meat, rice, fresh vegetables and bread. I couldn't pick a single dish as my avourite but I love that Turkish food uses good quality, fresh ingredients, cooked using basic but effective techniques.
