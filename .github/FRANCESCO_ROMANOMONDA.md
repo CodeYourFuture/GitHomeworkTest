@@ -1,5 +1,5 @@
 Hello whoever will read this text,
-My given name is Francesco and my family name is Romano Monda.
+my given name is Francesco and my family name is Romano Monda.
 I do not have any favourite sport because I have lost interest in anything beyond pursuing my diploma and making an income.
 My socio-economic issues, as well as my irritable bowel syndrome, have led me to follow a vegan diet with a limited selection of foods. Thus, I am used to thinking about food in terms of necessity rather than enjoyment. However, I love the fragrance of basil immersed in simmering tomato sauce.
 As you may infer from what I said earlier, I do not have a favourite type of music, but I have learned to appreciate the sound of the Scottish bagpipes, such as in this example: https://youtu.be/SO_-EvPZ8iw?si=RIEqPUA2N-xFg566.
