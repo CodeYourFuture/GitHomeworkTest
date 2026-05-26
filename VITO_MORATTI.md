@@ -1,0 +1,9 @@
+i. Hello, my name is Vito Moratti.
+ii. I like sailing and volleyball as a sport, and as a pass time. I would gladly switch to sailing as a lifestye as well, given a chance. Being at sea is a feeling like no other. Sailing can also be a competitive sport, and these days with huge improvements in sails design and technology, boat can reach unbelievable speeds.
+I also like volleybal which I recently (2024) started to play but got slowed down by an injury. However, I find volleybal a very beautifull sport, where grazia meets power and agression. I always loved how someone poeticaly described it: "Volleyball is a poetic dance of physics and trust. It’s a game where the floor is lava, the ball is a spinning sphere of controlled energy, and six players move as one heartbeat. Every touch is a brushstroke, painting a masterpiece in the air."
+iii. I find the word favourite very limiting, as it's just says: "You can only like one." Especially when it comes to food or music. And when a person has an immidiate answer to that question, in my oppinion, that makes that person is limited too. My answer therefore, is: "Variety is my favorite" In the past 2 hours, while doing this exercise, Youtube has taken me from classical, like, "Erik Satie", to heavy metal, like "Accept", with electronic music in between. And I do like it all. 
+As for food - last night I was thinking of cooking this dish. It is a Mediterranian, known broadly as "Dolma" in some eastern Medeterranian counties. But this paticular variety, is stuffed vine leaves. They can be stuffed with different things, but I like them stufeed with mixture of meanced meat, rice and spices, ans herbs.
+iv. When I want to relax, I do like this paticular piece of music by Erik Satie: 
+https://youtu.be/Ki1rgt9Rfww?list=PLWhLGL19bHYNxj5pZolnH3JVKjZW1l4vp&t=216
+
+v. In year 2000 i had an accident. To this day i have no memory of it, or my life prior to it.
