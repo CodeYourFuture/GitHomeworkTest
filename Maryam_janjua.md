@@ -1,0 +1,11 @@
+Maryam Janjua
+About me:
+My name is Maryam Janjua, and I am the youngest daughter in a family of three sisters. I have a friendly and caring nature, and I enjoy spending time with my family, especially my niece. In my free time, I love reading novels, baking, and cooking.
+I completed my Bachelor's degree in Computer Science in 2023. Since I have always been passionate about programming, I decided to continue my education and pursue a Master's degree in Information Technology at the University of Derby in the UK. The application and visa process was challenging, but I managed everything independently, which taught me resilience and confidence.
+I moved to the UK in February 2024. Although I was excited, I was also nervous because it was my first time living away from my family. Adjusting to a new country, culture, studies, and finding a part-time job was challenging. After applying for many jobs, I secured my first role in the UK as a Field Marketing Agent. This experience helped me develop communication skills, customer service skills, and the ability to work under pressure. Later, I worked as a Sales Assistant at the University of Derby Students' Union Shop.
+Alongside my studies and work, I became a Class Representative and helped welcome new students during orientation events. These experiences improved my leadership and teamwork skills. I then focused on completing my thesis and successfully graduated in 2025.
+After graduation, I was eager to start my career in technology. Although I faced several rejections while applying for tech roles, I continued to stay determined. To support myself financially, I worked in a warehouse, which taught me resilience and the importance of perseverance. Realising that I wanted to stay connected to the tech industry, I joined Code Your Future (CYF) to continue developing my skills and move closer to my career goals.
+Favorite Food:
+I love to try new cuisine. My all time favorite is chicken biryani.
+Favorite Spot:
+One of my favourite places in Derby is a peaceful spot near the city centre, surrounded by a lake and ducks. I enjoy visiting this place to relax, clear my mind, and spend some quiet time in nature.
