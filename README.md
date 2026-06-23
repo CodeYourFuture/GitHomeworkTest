@@ -6,7 +6,7 @@ To complete this homework you should use the Git workflow you've been learning t
 2. Clone the fork to your local machine
 3. Open the local repository in VSCode
 4. In VSCode, create a local branch called `bio-page`
-5. Create a new file called `FIRSTNAME_LASTNAME.md`
+5. Create a new file called `mdFIRSTNAME_LASTNAME.`
    - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
 6. In this file, write an introduction yourself. You should include:
    1. Your name
