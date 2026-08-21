@@ -1,0 +1,5 @@
+1. Name: Anza Azam.
+2. Favourite Sport: Cricket , it is my favourite sport because it has been played across the world since many decades. There are many competitive teams around the globe which participate in the worldcup and play matches in a friendly environment. It brings world together and countries enjoy peace along with the games. It is very dynamic game where sometime till the end it keeps suspense within itself that which team will win the game and that is the exciting part in this sport. I have enjoyed this game in every form, such as watching on the tv, watching teams play in the ground or even when I play myself with my family on casual weekends.
+3. Favourite Food: My favourity food is Biryani, it is my favourite because I can cook it and I like my cooking the most when I make this dish, it is available with many varieties and thankfully I have taste buds which admire it in all varieties it can also be cooked on a budget and with healthy alternative ingredients.
+4. https://www.youtube.com/watch?v=bRD51qEJ8t4 ---link to my favourite music.
+5. Interesting fact: easily adapt to different environments and can imitate other people's handwritings.
