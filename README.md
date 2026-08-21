@@ -1,37 +1,11 @@
-# Git Lesson Homework
+# Git Practice Task
 
-To complete this homework you should use the Git workflow you've been learning this week.
-
-1. Fork this repository to create a version where you are the owner
-2. Clone the fork to your local machine
-3. Open the local repository in VSCode
-4. In VSCode, create a local branch called `bio-page`
-5. Create a new file called `FIRSTNAME_LASTNAME.md`
-   - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
-6. In this file, write an introduction yourself. You should include:
-   1. Your name
-   2. Your favourite sport and why you like it
-   3. Your favourite food and why it's your favourite
-   4. A link to a video of your favourite music
-   5. An interesting fact about yourself - impress us!
-7. `Commit` the file to your branch
-8. `Push` the branch `bio-page` to your fork
-
-## Creating a pull request
-
-Finally, you'll need to get others to review your work! 
-You can do this by creating a **pull request**!
-
-To learn more about **pull requests** and how to create one, please use this guide 👉 https://curriculum.codeyourfuture.io/guides/reviewing/trainee-pr-guide/ 
-
-9. Open a `Pull Request` to this repository
+To complete this task you should use the Git workflow you've been learning this week. First you need to find the `instructions.md` file in this repository, then follow the steps to complete the task. Usually your instructions will be in this `README.md` file but we want you to practice searching GitHub!
 
 ## How to check your work?
-If you have correctly submitted your PR, you can find it in https://github.com/CodeYourFuture/GitHomeworkTest/pulls.
+If you have correctly completed the task you will find your repository at `https://github.com/<your-user-name>/git-practice-ticket`. You should see two text files and an image.
 
-Your PR should look like this: https://github.com/CodeYourFuture/GitHomeworkTest/pull/692
-
-**Please note that your PR will not undergo an official review, as none is required.** Most PRs at CodeYourFuture get reviewed, but this one is just for you to practice creating them.
+**Please note that this task will not undergo an official review.** Most tasks at CodeYourFuture get reviewed, but this one is just for you to practice working with Git.
 
 ## Asking for Help
 
