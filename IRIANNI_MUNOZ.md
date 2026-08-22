@@ -1,0 +1,6 @@
+Hi there! My name is Irianni Munoz Blandines (in Cuba we have 2 surnames), and I came all the way from Havana to a tiny island in the Scottish West Coast
+5 years ago.
+I'm not a very physical person, but when I was growing up, I loved to the play baseball with my friends, it was good fun, very exciting, we really had to work hard as a team and I loved the feeling of hitting a homerun and run with everything I had to score the points for my team!
+It's hard for me to choose when it comes about food, because I love eating! I have a soft spot for Cuban food, because it tells the story of my country, being an amazing mix of African, Spanish and Indigenous cultures interpretated through food, but if I really have to choose, friend bananas and fried pork chunks are my to-go ones.
+Music it's a big part of my life, and Salsa always make my heart jump with happiness, so enjoy!: https://www.youtube.com/watch?v=0H3TU9IlG_0  (skip to the minute 1.25)
+I write poetry and short stories, and one of my short fantasy stories got published in Cuba.
