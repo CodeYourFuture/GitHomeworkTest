@@ -1,0 +1,1 @@
+I am Junita Lama. My favourite sport is cricket beacause i grew up watching my brothers playing it everyday. My favourite food is vegetable momo because it is very delicious. My favourite music is om mane peme ho becuase it is very soothing and peaceful. https://youtu.be/R-ZO7bsA2pA . An interesting fact about me is that I have never tested meat in my life and i am a vegeterian.
