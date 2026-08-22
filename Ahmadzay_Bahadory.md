@@ -1,0 +1,2 @@
+
+This is Bahadory. My favorite food is pasta, and I used to enjoy eating it at my friend's house, where they cooked it using the traditional Italian recipe. As for my favorite music, you can listen to it here: https://youtu.be/NlwIDxCjL-8. An interesting fact about me is that I am a cat person and love swimming.
