@@ -1,0 +1,6 @@
+Hey there! 
+My name is Elizabeth Tabala, or Liza for short. I can't name my favourite sport or food because there are so many different ones, how one can love just one?? For example, I like watching football, but only big competitions like FIFA or World Cup. I also liked playing it when I was little. But I also like swimming, very much. Why do I like it? I don't know. I just like diving, so the whole hectic world is "outside", and I can't hear it. 
+As for the food, I also can't tell you just one I love. But there's one I've been loving since my childhood. It's russian pancakes. Basically, it's like crepes that different European countries have as well, but somehow, russian ones called that way.
+https://www.youtube.com/watch?v=I1eoSKTIonQ
+Here's one of my favourite songs from one of my favourite singers, Mahmood <3
+One interesting fact about me: once I was working as a lifeguard at the States. I saved two drowning little boys, but not that I wasn't given a bonus (it's okay, I'm happy that I saved lives), but I was fired very soon after that *a clown emoji*
