@@ -1,0 +1,2 @@
+Hi I'm Gislaine 
+Running is my favorite sport, offering a peaceful escape into nature and precious time for myself. When it comes to food, I don't have just one favorite; instead, every new dish is an exciting opportunity for new flavors and discoveries.
