@@ -1,0 +1,6 @@
+BISI_OLAJIDE.md
+Hello, I am Bisi Olajide
+My favourite sport is walking, as I only recently discovered the fun of it. Previously used to drive everywhere, but changed the kids school recently to a school 10mins down the hill from where we live. There is a huge park on the way to school that the kids love, and gradually, partly from necessity as parking near the school is a problem, the kids have turned me into a "belieber". We all have fun running down the hill on the way to school in the morning and walk the long route through the park back home in the afternoon, picking leaves and whatever takes their fancy.
+My favourite food is fried plantain and rice with mackerel fish stew as it reminds me of being in Nigeria when I was younger.
+I love "old school" music and here is a link to one of my favourite songs, "Love TKO" by Teddy Pendergrass - https://www.youtube.com/watch?v=j6wh4txopOA
+A fun fact is that I love collecting unusual looking shoes, even though I don't wear the majority of them, as I can't wear high heels and don't even go out socially much outside of kiddie activities. more so now cause of Covid limitations. I guess just gazing at and admiring them every so often is not exactly practical, so its a hobby im going to have to wean myself off pretty soon. Maybe my new years resolution for year 2021!
