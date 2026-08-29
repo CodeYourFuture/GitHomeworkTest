@@ -1,0 +1,2 @@
+
+   My name is Adeline Boka. I love marathons because they require self decipline ,consistency and dedication like most good things in this life and i think they help with stress relief, despite the fact that i'm a short distance runner .My favourite food is bacon i love it because it tastes good and it does not take long to prepare. An interesting fact about me is that i'm nocturnal i spend most of my nights awake watching youtube tutorials and i usually go to bed at 4 am waking up as early as 6 to start my day.
