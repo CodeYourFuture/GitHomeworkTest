@@ -30,6 +30,6 @@ Use the Git skills you have developed this week to create a repository with some
    2. The name of a good restaurant or cafe near the venue
    3. A fun fact about the city
 3. Commit the file
-4. Add a photo of somewhere in your region. You could use a photo of the venue or one of a famous landmark in the city. You can take the photo yourself or find one on Google.
+4. Find a photo of somewhere in your region and save it inside your `git-practice-ticket` folder (for example `london.jpg` or `eiffel_tower.png`). You could use a photo of the venue or a famous landmark in the city. You can also take the photo yourself.
 5. Commit the photo
 6. Push the text file and the photo to GitHub
