@@ -1,4 +1,13 @@
-<!--
+<!--Hello! My name is Luigi.
+
+My favourite sport is Rugby because you get to practice being strong and fast.
+
+My favourite food is sushi. I love Japanese cuisine and always feel special when I have it.
+
+Here is a link to my favourite artist, Bruno Mars
+[https://www.youtube.com/watch?v=j4H71P_ccE8&list=RDj4H71P_ccE8&start_radio=1](https://youtu.be/lY5V4hSLWY8?si=SkhA07EgO1TEtoxT)
+
+One interesting fact about me is that I compete in obstacle course challenges.
 
 You must title your PR like this:
 
