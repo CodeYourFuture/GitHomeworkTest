@@ -1,0 +1,11 @@
+Introduction:
+
+This text will give you some information about me.
+I’m Rawan. I rarely watch sports, but when I do,  I watch tennis and car races. 
+I don't have a specific reason why I like it. 
+One more thing about me is my love of Greek food,
+especially lamb gyros. I enjoy different types of music, 
+so it’s hard to choose a favourite, but if I’m forced,
+this one <a href="https://www.youtube.com/watch?v=YnylnIxAFnk&list=RDYnylnIxAFnk&start_radio=1">Click</a> will be one of my favourites. 
+An interesting fact about me could be my love for shows
+like Junkyard Wars.
