@@ -1,0 +1,6 @@
+Hi everyone, my name is Fatima Rouchi I'm Moroccan made in ITALY.
+I have many favourite sports such as Karate, Judo, Boxing, jujitsu, taekwondo... or really any Martial Art. I've always been facinated by them since a was little that my dream was to be able to fight and move like a ninja hahaha. I love that Martial Arts are about discipline, respect, and self‑defence, rather than fighting.  
+My favourite food is authentic Italian  pizza (ofc). The harmony of the sauce, the bread, the basil and mozzarella is just uhhhh undescribable.
+I don't really listen to music, so i don't have a favourite. I find music to be a ditraction, it feels good at first but once it stops, it can leave you an empty feeling inside. I prefer the sound of nature, which help relax the mind and make us feel grounded and present.
+https://youtu.be/ipf7ifVSeDU?si=eCSBGxr7nrmB74Va 
+An interesting fact about me is that I used to have very vivid dreams, sometimes so real that when I woke up, I couldn’t tell whether I was still dreaming or awake.
